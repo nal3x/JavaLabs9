@@ -4,7 +4,7 @@ public class ExceptionTester1 {
     public static void main(String[] args) {
        int num;
        num = getNumber();
-System.out.println("To diplasio tou arithmou einai " + 2 * num);
+       System.out.println("To diplasio tou arithmou einai " + 2 * num);
 }
 
 
